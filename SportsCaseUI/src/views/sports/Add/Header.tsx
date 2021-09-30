@@ -28,7 +28,7 @@ const Header: FC<HeaderProps> = ({ className, ...rest }) => {
         <Link
           variant="body1"
           color="inherit"
-          to="/app"
+          to="/app/sports"
           component={RouterLink}
         >
           Home
